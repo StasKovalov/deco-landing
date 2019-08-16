@@ -236,6 +236,7 @@ header:before {
 .slider_box img {
 	width: 100%;
 	display: block;
+	transition: all 0.3s ease-in;
 }
 
 .slider_container {
@@ -1187,6 +1188,7 @@ input[type="text"], input[type="email"] {
 .container_boxx {
 	width: 100%;
 	visibility: hidden;
+	transition: all 0.2s ease-in;
 }
 
 .container_boxx__img {
